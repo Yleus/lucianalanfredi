@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { playfair } from '../app/fonts';
-import jewel1image from '../../public/jewel1.png' 
+import jewel1image from '../../public/jewel1.PNG' 
 
 const About = () => {
   
