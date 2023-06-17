@@ -13,7 +13,7 @@ const Services = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/images/jewel2.png"
+                    src="public/images/jewel2.png"
                     width={300}
                     height={300}
                     alt=""/>
