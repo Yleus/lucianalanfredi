@@ -21,8 +21,8 @@ const About = () => {
             <div className="bg-white rounded">
                 <Image  
                     src="/jewelone.png"
-                    width={400}
-                    height={400}
+                    width={300}
+                    height={300}
                     alt="ASDASAS"/>
             </div>
             
