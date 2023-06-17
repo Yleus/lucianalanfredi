@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { playfair } from '../app/fonts';
+import jewel1 from '../../public/jewel1.png' 
 
 const About = () => {
   
@@ -19,7 +20,7 @@ const About = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/jewel1.png"
+                    src={jewel1}
                     width={300}
                     height={300}
                     alt=""/>
