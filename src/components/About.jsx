@@ -20,10 +20,10 @@ const About = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src={jewel1image}
+                    src="/screenlucy.png"
                     width={300}
                     height={300}
-                    alt=""/>
+                    alt="ASDASAS"/>
             </div>
             
         </div>
