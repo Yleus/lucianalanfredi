@@ -4,7 +4,6 @@ import { AiFillInstagram, AiOutlineForm } from "react-icons/ai";
 import Link from "next/link";
 import { playfair } from '../app/fonts';
 
-
 const Contact = () => {
     return ( 
       
@@ -28,7 +27,7 @@ const Contact = () => {
                         
                         <div className="bg-white rounded">
                             <Image  
-                                src="/jewel3.png"
+                                src="/screenlucy.png"
                                 width={300}
                                 height={300}
                                 alt=""/>

@@ -15,7 +15,7 @@ const Services = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/jewel2.png"
+                    src="/screenlucy.png"
                     width={300}
                     height={300}
                     alt=""/>
