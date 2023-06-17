@@ -33,7 +33,7 @@ const Main = () => {
                 <div className="relative bg-[#fa7e61] p-2 flex justify-center md:rounded-full md:p-14">
                     <div className=" w-[300px] h-[500px] flex justify-center items-center bg-center bg-contain bg-no-repeat bg-[url('/images/teste.png')]">
                         <div className="w-[270px] h-[350px] max-w-280 max-h-500 overflow-auto mx-auto">
-                            <img src="/images/screenlucy.png" alt="Imagem" className="max-w-full h-auto"/>                    
+                            <img src="/static/images/screenlucy.png" alt="Imagem" className="max-w-full h-auto"/>                    
                         </div>
                         
                     </div>
