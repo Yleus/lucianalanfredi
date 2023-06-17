@@ -2,7 +2,7 @@
 const nextConfig = {
     images: {
     domains: [
-      'https://lucianalanfredi.vercel.app/',
+      'https://github.com/Yleus/lucianalanfredi',
     ]
   },}
 
