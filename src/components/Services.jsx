@@ -1,6 +1,8 @@
 'use client';
 import Image from "next/image";
 import { playfair } from '../app/fonts';
+import jewel2image from '../../public/jewel2.png';
+
 
 const Services = () => {
     return ( 
@@ -13,7 +15,7 @@ const Services = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/static/images/jewel2.png"
+                    src={jewel2image}
                     width={300}
                     height={300}
                     alt=""/>
