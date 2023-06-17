@@ -25,7 +25,7 @@ const Contact = () => {
                             </div>
                         </div>
                         
-                        <div className="bg-white rounded">
+                        <div className="bg-white rounded items-center">
                             <Image  
                                 src="/jewelthree.png"
                                 width={300}
