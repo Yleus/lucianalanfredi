@@ -19,7 +19,7 @@ const About = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/images/jewel1.png"
+                    src="/static/images/jewel1.png"
                     width={300}
                     height={300}
                     alt=""/>
