@@ -27,7 +27,7 @@ const Contact = () => {
                         
                         <div className="bg-white rounded">
                             <Image  
-                                src="/screenlucy.png"
+                                src="/jewelthree.png"
                                 width={300}
                                 height={300}
                                 alt=""/>

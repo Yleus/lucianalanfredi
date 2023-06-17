@@ -20,9 +20,9 @@ const About = () => {
             
             <div className="bg-white rounded">
                 <Image  
-                    src="/jewel1.png"
-                    width={300}
-                    height={300}
+                    src="/jewelone.png"
+                    width={400}
+                    height={400}
                     alt="ASDASAS"/>
             </div>
             
@@ -30,7 +30,7 @@ const About = () => {
     </div>
      );
 }
-// uppercase font-bold break-words text-center md:text-start text-4xl max-w-[300px]  leading-[1.1] xl:max-w-[200px] xl:text-[80]
+
  
 export default About;
 
