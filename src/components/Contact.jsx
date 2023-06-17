@@ -3,7 +3,7 @@ import Image from "next/image";
 import { AiFillInstagram, AiOutlineForm } from "react-icons/ai";
 import Link from "next/link";
 import { playfair } from '../app/fonts';
-import jewel3image from '../../public/jewel3.png';
+
 
 const Contact = () => {
     return ( 
@@ -28,7 +28,7 @@ const Contact = () => {
                         
                         <div className="bg-white rounded">
                             <Image  
-                                src={jewel3image}
+                                src="../../public/jewel3.png"
                                 width={300}
                                 height={300}
                                 alt=""/>
