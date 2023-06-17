@@ -18,9 +18,9 @@ const About = () => {
                 <p className="tracking-wide leading-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim, aliquid ipsa voluptas non laborum odit officia fugit magnam est optio sed ducimus eum sapiente quod harum numquam consectetur distinctio accusamus?</p>
             </div>
             
-            <div className="bg-white rounded items-center">
+            <div className="bg-white rounded items-center flex justify-center">
                 <Image  
-                    src="/jewelone.png"
+                    src="/jeweltwo.png"
                     width={300}
                     height={300}
                     alt="ASDASAS"/>
